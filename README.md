@@ -43,5 +43,10 @@ Activities with HTML, JavaScript, CSS
     <td>Task-6</td>
     <td>Inserting the icon Web document</td>
   </tr>
+   <tr>
+    <td>7</td>
+    <td>Task-7</td>
+    <td>Understanding the title tag in the HTML</td>
+  </tr>
 </table>
 
