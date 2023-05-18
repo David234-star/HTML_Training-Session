@@ -1,6 +1,7 @@
 # HTML-Training-Session
 Activities with HTML, JavaScript, CSS 
-![Logo](./Task-1/raindrops.jpg)
+<img src="./Task-1/raindrops.jpg" alt="Alt Text" width="250" height="250">
+
 
 
 # Table of Contents
