@@ -1,6 +1,7 @@
 # HTML-Training-Session
 Activities with HTML, JavaScript, CSS 
-<img src="./Task-1/raindrops.jpg" alt="Alt Text" width="250" height="250">
+
+<br><img src="./Task-1/raindrops.jpg" alt="Alt Text" width="250" height="250">
 
 
 
