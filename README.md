@@ -48,5 +48,15 @@ Activities with HTML, JavaScript, CSS
     <td>Task-7</td>
     <td>Understanding the title tag in the HTML</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>Task-8</td>
+    <td>Internal Style Sheet</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Task-9</td>
+    <td>Redirect your web document after 5 seconds to another website</td>
+  </tr>
 </table>
 
