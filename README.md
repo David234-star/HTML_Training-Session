@@ -1,5 +1,7 @@
 # HTML-Training-Session
 Activities with HTML, JavaScript, CSS 
+![Logo](./Task-1/raindrops.jpg)
+
 
 # Table of Contents
 
@@ -30,3 +32,4 @@ Activities with HTML, JavaScript, CSS
     <td>Understing NoScript Tag</td>
   </tr>
 </table>
+
