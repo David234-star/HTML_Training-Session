@@ -33,5 +33,15 @@ Activities with HTML, JavaScript, CSS
     <td>Task-4</td>
     <td>Understing NoScript Tag</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Task-5</td>
+    <td>Understing Link & css Tag</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Task-6</td>
+    <td>Inserting the icon Web document</td>
+  </tr>
 </table>
 

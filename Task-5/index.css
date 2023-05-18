@@ -1,0 +1,10 @@
+h1 {
+    color: greenyellow;
+}
+h2 {
+    color: blueviolet;
+}
+
+h1,h2 {
+    text-align: center;
+}
