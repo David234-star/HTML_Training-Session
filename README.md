@@ -68,5 +68,10 @@ Activities with HTML, JavaScript, CSS
     <td>Task-11</td>
     <td>Understanding Anchor tag</td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>Task-12</td>
+    <td>HTML Entities and Comments</td>
+  </tr>
 </table>
 
