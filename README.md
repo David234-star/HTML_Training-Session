@@ -63,5 +63,10 @@ Activities with HTML, JavaScript, CSS
     <td>Task-10</td>
     <td>Background Image for Body</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Task-11</td>
+    <td>Understanding Anchor tag</td>
+  </tr>
 </table>
 
