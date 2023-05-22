@@ -2,7 +2,7 @@
 
 Activities with HTML, JavaScript, CSS
 
-<br><img src="./Task-1/raindrops.jpg" alt="Alt Text" width="250" height="250">
+<br><img src="./Task-1/raindrops.jpg" alt="Alt Text" width="660" height="350">
 
 # Table of Contents
 
