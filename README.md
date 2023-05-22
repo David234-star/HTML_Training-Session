@@ -1,9 +1,8 @@
 # HTML-Training-Session
-Activities with HTML, JavaScript, CSS 
+
+Activities with HTML, JavaScript, CSS
 
 <br><img src="./Task-1/raindrops.jpg" alt="Alt Text" width="250" height="250">
-
-
 
 # Table of Contents
 
@@ -73,5 +72,9 @@ Activities with HTML, JavaScript, CSS
     <td>Task-12</td>
     <td>HTML Entities and Comments</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>Task-13</td>
+    <td>Creating the Team List</td>
+  </tr>
 </table>
-
