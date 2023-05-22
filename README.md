@@ -87,4 +87,9 @@ Activities with HTML, JavaScript, CSS
     <td>Task-15</td>
     <td>Creating headings in the html file</td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td>Task-16</td>
+    <td>Creating paragraphs in the html file</td>
+  </tr>
 </table>
