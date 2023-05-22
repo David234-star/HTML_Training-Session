@@ -92,4 +92,9 @@ Activities with HTML, JavaScript, CSS
     <td>Task-16</td>
     <td>Creating paragraphs in the html file</td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td>Task-17</td>
+    <td>Creating HR and BR in the html file</td>
+  </tr>
 </table>
