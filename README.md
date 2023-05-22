@@ -15,7 +15,7 @@ Activities with HTML, JavaScript, CSS
   <tr>
     <td>1</td>
     <td>Task-1</td>
-    <td>Understing Meta Tags</td>
+    <td>Understanding Meta Tags</td>
   </tr>
   <tr>
     <td>2</td>
@@ -25,17 +25,17 @@ Activities with HTML, JavaScript, CSS
   <tr>
     <td>3</td>
     <td>Task-3</td>
-    <td>Understing of External JavaScript</td>
+    <td>Understanding of External JavaScript</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Task-4</td>
-    <td>Understing NoScript Tag</td>
+    <td>Understanding NoScript Tag</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Task-5</td>
-    <td>Understing Link & css Tag</td>
+    <td>Understanding Link & css Tag</td>
   </tr>
   <tr>
     <td>6</td>
@@ -96,5 +96,10 @@ Activities with HTML, JavaScript, CSS
     <td>17</td>
     <td>Task-17</td>
     <td>Creating HR and BR in the html file</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Task-18</td>
+    <td>Div tag in HTML</td>
   </tr>
 </table>
