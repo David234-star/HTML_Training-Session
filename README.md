@@ -82,4 +82,9 @@ Activities with HTML, JavaScript, CSS
     <td>Task-14</td>
     <td>Creating border for Task-13</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>Task-15</td>
+    <td>Creating headings in the html file</td>
+  </tr>
 </table>
